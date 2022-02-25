@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackiem2/express.js-challenge.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jackiem2/express.js-challenge/issues"
+  },
+  "homepage": "https://github.com/jackiem2/express.js-challenge#readme"
 }
