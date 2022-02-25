@@ -29,6 +29,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - Express js
 - Node js
 
+# URL
+heroku : https://notetaker-jm.herokuapp.com/
+repo : https://github.com/jackiem2/express.js-challenge.git
+
 
 # Screenshot
 ![screenshot](/images/screenshot.png)
