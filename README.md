@@ -31,4 +31,3 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 # Screenshot
-![screenshot](https://1drv.ms/u/s!Ants7J9se7Gogt8R4u4-WYzrIh-l7A)
